@@ -1,6 +1,5 @@
 # Ck3CommunityMod-1
-The First Community Mod for Ck3
-Community Mods are 100% open source, all modders can equally participate no matter your skill level, just remember this is all for fun.
+Ck3 community Mods are 100% open source, all modders can equally participate no matter your skill level, just remember this is all for fun.
 Each addition will be overviewed. Feel free to add new features and edit old ones.
 # The Theme
 Each mod has a loose theme to get ideas flowing, every addition is not forced to be related to the theme.
